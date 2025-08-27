@@ -24,6 +24,7 @@ FACT_TAGS = {
     "http://gedcomx.org/Cremation": "CREM",
     "http://gedcomx.org/Caste": "CAST",
     "http://gedcomx.org/Nationality": "NATI",
+    "http://gedcomx.org/Immigration": "IMMI",
 }
 
 FACT_EVEN = {
